@@ -1,7 +1,7 @@
 {
 	"name": "Select Previous Tab",
 	"version": "1.0.0",
-	"description": "Adds a keyboard shortcut to select previously viewed tab.",
+	"description": "Adds a keyboard shortcut to select the previously viewed tab.",
 	"manifest_version": 3,
 	"icons": {
 		"16": "icons/16-light.png",

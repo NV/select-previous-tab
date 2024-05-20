@@ -1,6 +1,6 @@
 # Select Previous Tab
 
-[Install from Chrome Web Store](https://chromewebstore.google.com/detail/tab-cellar/niiagoaiinijbdmegmhjmmemgcihdgbe)
+[Install from Chrome Web Store](https://chromewebstore.google.com/detail/select-previous-tab/niiagoaiinijbdmegmhjmmemgcihdgbe)
 
 Select previously viewed tab by pressing Alt-Q (Ctrl-Q on Mac). The shortcut can be configured.
 
