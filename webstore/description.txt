@@ -1,0 +1,11 @@
+Select previously viewed tab by pressing Alt-Q (Ctrl-Q on Mac). The shortcut can be configured.
+
+This extension:
+— Has no tracking
+— Can't read your tabs
+— Doesn't consume any memory or CPU when not used
+
+Open-source: github.com/NV/select-previous-tab
+
+Set Ctrl-Tab as the keyboard shortcut:
+https://github.com/NV/select-previous-tab?tab=readme-ov-file#change-the-keyboard-shortcut-to-ctrl-tab
